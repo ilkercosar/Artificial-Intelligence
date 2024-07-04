@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/TEST.dir/main.c.o CMakeFiles/TEST.dir/dataset.c.o CMakeFiles/TEST.dir/svr.c.o  -o TEST 
